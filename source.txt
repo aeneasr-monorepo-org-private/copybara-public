@@ -1,0 +1,3 @@
+This is just an example text.
+
+Feel free to edit it and submit PRs!
